@@ -1,4 +1,4 @@
-                                  Wordpress App built with Docker Compose and kubernetes
+                                  Wordpress App built with Docker Compose
 
 For Docker:-
 
