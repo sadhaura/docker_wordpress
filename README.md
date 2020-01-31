@@ -15,9 +15,9 @@ Clone this repository on your local computer.
 
 2. cd docker_wordpress
 
-3. docker-compose up -d
+3.Run the command below
 
-and run the command below
+docker-compose up -d
 
 Your Wordpress App is now ready!! You can access it via http://localhost:8087.
 
